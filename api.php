@@ -1,5 +1,4 @@
 <?php 
-
 	//skicka statuskoder för underlätta om du får fel
 	//500 server error
 	//200 ok
