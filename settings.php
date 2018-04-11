@@ -1,10 +1,9 @@
 <?php 
 
-    
-    $dbhost = "127.0.0.1";
+    $dbhost = "localhost";
 	$dbuser = "root";
 	$dbpass = "root";
-	$dbname = "todo";
+	$dbname = "todo11";
 
 	$dsn = "mysql:host=$dbhost;dbname=$dbname;charset=utf8";
 	$opt = [
