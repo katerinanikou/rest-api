@@ -1,4 +1,8 @@
 <?php 
+<<<<<<< HEAD
+=======
+require('settings.php');
+>>>>>>> 44c833ef48cd5c1cc9061ade7b9f6b58c677ff1f
 	//skicka statuskoder för underlätta om du får fel
 	//500 server error
 	//200 ok
